@@ -1,0 +1,3 @@
+﻿  MyForm.cpp
+c:\users\simon\desktop\影像處理\object\0804workproject\workproject\workproject\myform.h(826): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  WorkProject.vcxproj -> C:\Users\simon\Desktop\影像處理\object\0804WorkProject\WorkProject\x64\Release\WorkProject.exe

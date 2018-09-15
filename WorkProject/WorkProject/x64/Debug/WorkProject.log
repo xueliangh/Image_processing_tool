@@ -1,0 +1,58 @@
+﻿  Method.cpp
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(122): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(123): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(172): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(173): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(243): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(244): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(245): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(251): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(252): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(253): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(259): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(260): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(261): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(267): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(268): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(269): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(334): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(335): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(336): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(342): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(343): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(344): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(350): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(351): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(352): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(358): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(359): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(360): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(481): warning C4244: '引數': 將 'const double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(482): warning C4244: '引數': 將 'const double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(757): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1093): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1158): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1159): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1224): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1225): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1312): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1314): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1316): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1331): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1371): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1398): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1446): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1449): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1450): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1462): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1463): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1475): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1476): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1308): warning C4101: 'max': 未參考的區域變數
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1428): warning C4101: 'denom': 未參考的區域變數
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(1428): warning C4101: 'temp': 未參考的區域變數
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(243): warning C4700: 使用了未初始化的區域變數 'm'
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(244): warning C4700: 使用了未初始化的區域變數 'n'
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(334): warning C4700: 使用了未初始化的區域變數 'm'
+c:\users\simon\desktop\object\workproject\workproject\method.cpp(335): warning C4700: 使用了未初始化的區域變數 'n'
+  WorkProject.vcxproj -> C:\Users\simon\Desktop\object\WorkProject\x64\Debug\WorkProject.exe
