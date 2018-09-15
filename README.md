@@ -6,12 +6,18 @@ visual studio 2017
 
 Method function:
 
-void OpenImage(void);
-void RGBtoGray(void);
-void Reduction(void);
-void ZoomImage(float scale);
+void OpenImage(void);  
+
+void RGBtoGray(void);  
+
+void Reduction(void);  
+
+void ZoomImage(float scale);  
+
 void ZoomOutImage(float scale);
+
 void TwoZoomImage(double scale);
+
 void TwoZoomOutImage(double scale);
 void SaltPepperNoise(int number);
 void Gaussian_Noise(double mean, double std);
