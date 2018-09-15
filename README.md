@@ -3,6 +3,7 @@ use visual c++ program computer vision tool
 
 visual studio 2017
 
+
 Method function:
 
 void OpenImage(void);
